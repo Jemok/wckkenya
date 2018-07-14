@@ -19,6 +19,6 @@ $success = @mail($email_to, $subject, $body, 'From: <'.$email_from.'>');
 
 // echo json_encode($status);
 
-header("Location: http://premiumhub.co.ke/success.html");
+header("Location: http://172.26.12.128/success.html");
 
 die;
