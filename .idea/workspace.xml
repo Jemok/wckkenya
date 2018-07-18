@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50f393a2-e67d-484e-a99e-b6229a9e9887" name="Default" comment="" />
+    <list default="true" id="50f393a2-e67d-484e-a99e-b6229a9e9887" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bg-img/nakuru-hostel/nakuru-1.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about-us.html" afterPath="$PROJECT_DIR$/about-us.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aboutcctr.html" afterPath="$PROJECT_DIR$/aboutcctr.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/activities.html" afterPath="$PROJECT_DIR$/activities.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admission-cctr.html" afterPath="$PROJECT_DIR$/admission-cctr.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/art-and-essay-competition.html" afterPath="$PROJECT_DIR$/art-and-essay-competition.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/associate-membership.html" afterPath="$PROJECT_DIR$/associate-membership.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/central-region.html" afterPath="$PROJECT_DIR$/central-region.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/corporate-membership.html" afterPath="$PROJECT_DIR$/corporate-membership.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/donate.html" afterPath="$PROJECT_DIR$/donate.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ecology-programmes.html" afterPath="$PROJECT_DIR$/ecology-programmes.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/how-to-become-a-member.html" afterPath="$PROJECT_DIR$/how-to-become-a-member.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kisumu-hostel.html" afterPath="$PROJECT_DIR$/kisumu-hostel.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kisumu-region.html" afterPath="$PROJECT_DIR$/kisumu-region.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kitui-region.html" afterPath="$PROJECT_DIR$/kitui-region.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/komba-magazine.html" afterPath="$PROJECT_DIR$/komba-magazine.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/malindi-region.html" afterPath="$PROJECT_DIR$/malindi-region.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/material-production.html" afterPath="$PROJECT_DIR$/material-production.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mobile-education-unit.html" afterPath="$PROJECT_DIR$/mobile-education-unit.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mombasa-hostel.html" afterPath="$PROJECT_DIR$/mombasa-hostel.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mombasa-region.html" afterPath="$PROJECT_DIR$/mombasa-region.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nairobi-hostel.html" afterPath="$PROJECT_DIR$/nairobi-hostel.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nairobi-region.html" afterPath="$PROJECT_DIR$/nairobi-region.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nakuru-hostel.html" afterPath="$PROJECT_DIR$/nakuru-hostel.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nakuru-region.html" afterPath="$PROJECT_DIR$/nakuru-region.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/northeast-region.html" afterPath="$PROJECT_DIR$/northeast-region.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/northrift-region.html" afterPath="$PROJECT_DIR$/northrift-region.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/programme-cctr.html" afterPath="$PROJECT_DIR$/programme-cctr.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/school.html" afterPath="$PROJECT_DIR$/school.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/southrift-region.html" afterPath="$PROJECT_DIR$/southrift-region.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/success.html" afterPath="$PROJECT_DIR$/success.html" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,16 +46,65 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="kisumu-region.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kisumu-region.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="228" column="9" lean-forward="true" selection-start-line="228" selection-start-column="9" selection-end-line="228" selection-end-column="9" />
+            <state relative-caret-position="260">
+              <caret line="235" column="75" lean-forward="false" selection-start-line="235" selection-start-column="75" selection-end-line="235" selection-end-column="85" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kisumu-hostel.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kisumu-hostel.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="234" column="85" lean-forward="false" selection-start-line="234" selection-start-column="85" selection-end-line="234" selection-end-column="85" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nairobi-hostel.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/nairobi-hostel.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="233" column="103" lean-forward="false" selection-start-line="233" selection-start-column="103" selection-end-line="233" selection-end-column="103" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mombasa-hostel.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mombasa-hostel.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="238" column="32" lean-forward="false" selection-start-line="238" selection-start-column="32" selection-end-line="238" selection-end-column="32" />
               <folding>
-                <element signature="n#style#0;n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mombasa-region.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mombasa-region.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="233" column="75" lean-forward="false" selection-start-line="233" selection-start-column="75" selection-end-line="233" selection-end-column="86" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nairobi-region.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nairobi-region.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="233" column="75" lean-forward="false" selection-start-line="233" selection-start-column="75" selection-end-line="233" selection-end-column="86" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -41,6 +125,15 @@
       <find>scrollUp</find>
       <find>Busi</find>
       <find>WCK is run by a 20-member council of Civil Servants,</find>
+      <find>Komba</find>
+      <find>Schools are also guided to form and</find>
+      <find>Visitors have</find>
+      <find>and essay</find>
+      <find>Wildlife Clubs of Kenya</find>
+      <find>develop</find>
+      <find>Usefull</find>
+      <find>Useful</find>
+      <find>Usefu</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -55,9 +148,8 @@
         <option value="$PROJECT_DIR$/js/active.js" />
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/js/google-map/map-active.js" />
-        <option value="$PROJECT_DIR$/donate.html" />
-        <option value="$PROJECT_DIR$/komba-magazine.html" />
-        <option value="$PROJECT_DIR$/ecology-programmes.html" />
+        <option value="$PROJECT_DIR$/contact.php" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/aboutcctr.html" />
         <option value="$PROJECT_DIR$/activities.html" />
         <option value="$PROJECT_DIR$/admission-cctr.html" />
@@ -66,16 +158,16 @@
         <option value="$PROJECT_DIR$/central-region.html" />
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/corporate-membership.html" />
+        <option value="$PROJECT_DIR$/donate.html" />
+        <option value="$PROJECT_DIR$/ecology-programmes.html" />
         <option value="$PROJECT_DIR$/how-to-become-a-member.html" />
-        <option value="$PROJECT_DIR$/kisumu-hostel.html" />
         <option value="$PROJECT_DIR$/kisumu-region.html" />
         <option value="$PROJECT_DIR$/kitui-region.html" />
+        <option value="$PROJECT_DIR$/komba-magazine.html" />
         <option value="$PROJECT_DIR$/malindi-region.html" />
         <option value="$PROJECT_DIR$/material-production.html" />
         <option value="$PROJECT_DIR$/mobile-education-unit.html" />
-        <option value="$PROJECT_DIR$/mombasa-hostel.html" />
         <option value="$PROJECT_DIR$/mombasa-region.html" />
-        <option value="$PROJECT_DIR$/nairobi-hostel.html" />
         <option value="$PROJECT_DIR$/nairobi-region.html" />
         <option value="$PROJECT_DIR$/nakuru-hostel.html" />
         <option value="$PROJECT_DIR$/nakuru-region.html" />
@@ -85,9 +177,10 @@
         <option value="$PROJECT_DIR$/school.html" />
         <option value="$PROJECT_DIR$/southrift-region.html" />
         <option value="$PROJECT_DIR$/success.html" />
-        <option value="$PROJECT_DIR$/contact.php" />
         <option value="$PROJECT_DIR$/about-us.html" />
-        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/kisumu-hostel.html" />
+        <option value="$PROJECT_DIR$/mombasa-hostel.html" />
+        <option value="$PROJECT_DIR$/nairobi-hostel.html" />
       </list>
     </option>
   </component>
@@ -120,6 +213,97 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="academy">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="academy">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="img">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="academy">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="img">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="bg-img">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="academy">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="img">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="bg-img">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="nairobi-hostel">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="academy">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="img">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="bg-img">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="mombasa-region">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -180,53 +364,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="academy">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="academy">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="img">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="academy">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="img">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="bg-img">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -237,15 +374,16 @@
     <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/bg-img/nakuru-hostel" />
+      <recent name="$PROJECT_DIR$/img/core-img" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/bg-img/nakuru-hostel" />
       <recent name="$PROJECT_DIR$/img/bg-img" />
       <recent name="$PROJECT_DIR$/img/bg-img/kisumu-hostel" />
       <recent name="$PROJECT_DIR$/img/bg-img/mombasa-hostel" />
-      <recent name="$PROJECT_DIR$/img/bg-img/nakuru-hostel" />
       <recent name="$PROJECT_DIR$/img/bg-img/nairobi-hostel" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/img/core-img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -403,27 +541,28 @@
       <workItem from="1531493893207" duration="18558000" />
       <workItem from="1531569340372" duration="4845000" />
       <workItem from="1531580692681" duration="1849000" />
-      <workItem from="1531583922669" duration="78000" />
+      <workItem from="1531583922669" duration="1202000" />
+      <workItem from="1531906311438" duration="6125000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="160828000" />
+    <option name="totallyTimeSpent" value="168077000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22231075" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22629482" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37306502" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39009288" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -463,29 +602,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/bg-img/bg-hostel-4.jpg" />
-    <entry file="file://$PROJECT_DIR$/img/bg-img/bg-hostel-3.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/bg-img/bg-hostel-2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/bg-img/bg-4.jpg" />
-    <entry file="file://$PROJECT_DIR$/img/bg-img/bg-3.jpg" />
-    <entry file="file://$PROJECT_DIR$/img/bg-img/bg-2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/bg-img/bg-1a.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/bg-img/bg-1a.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -516,222 +632,9 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aboutcctr.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="235" column="99" lean-forward="false" selection-start-line="235" selection-start-column="99" selection-end-line="235" selection-end-column="99" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/activities.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="234" column="92" lean-forward="false" selection-start-line="234" selection-start-column="92" selection-end-line="234" selection-end-column="106" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admission-cctr.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="234" column="103" lean-forward="false" selection-start-line="234" selection-start-column="103" selection-end-line="234" selection-end-column="103" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/art-and-essay-competition.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="234" column="99" lean-forward="false" selection-start-line="234" selection-start-column="99" selection-end-line="234" selection-end-column="99" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/associate-membership.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="234" column="116" lean-forward="false" selection-start-line="234" selection-start-column="116" selection-end-line="234" selection-end-column="116" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/central-region.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="234" column="103" lean-forward="false" selection-start-line="234" selection-start-column="103" selection-end-line="234" selection-end-column="103" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="234" column="110" lean-forward="false" selection-start-line="234" selection-start-column="110" selection-end-line="234" selection-end-column="110" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/donate.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4320">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ecology-programmes.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4500">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/how-to-become-a-member.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="234" column="103" lean-forward="false" selection-start-line="234" selection-start-column="103" selection-end-line="234" selection-end-column="103" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kisumu-hostel.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="234" column="105" lean-forward="false" selection-start-line="234" selection-start-column="105" selection-end-line="234" selection-end-column="105" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kisumu-region.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="235" column="102" lean-forward="false" selection-start-line="235" selection-start-column="102" selection-end-line="235" selection-end-column="102" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kitui-region.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="234" column="101" lean-forward="false" selection-start-line="234" selection-start-column="101" selection-end-line="234" selection-end-column="101" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/komba-magazine.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4620">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/malindi-region.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="234" column="103" lean-forward="false" selection-start-line="234" selection-start-column="103" selection-end-line="234" selection-end-column="103" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/material-production.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="233" column="115" lean-forward="false" selection-start-line="233" selection-start-column="115" selection-end-line="233" selection-end-column="115" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mobile-education-unit.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="234" column="105" lean-forward="false" selection-start-line="234" selection-start-column="105" selection-end-line="234" selection-end-column="105" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mombasa-hostel.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="233" column="105" lean-forward="false" selection-start-line="233" selection-start-column="105" selection-end-line="233" selection-end-column="105" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mombasa-region.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="233" column="103" lean-forward="false" selection-start-line="233" selection-start-column="103" selection-end-line="233" selection-end-column="103" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nairobi-hostel.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="233" column="105" lean-forward="false" selection-start-line="233" selection-start-column="105" selection-end-line="233" selection-end-column="105" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nairobi-region.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="233" column="103" lean-forward="false" selection-start-line="233" selection-start-column="103" selection-end-line="233" selection-end-column="103" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nakuru-hostel.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="233" column="105" lean-forward="false" selection-start-line="233" selection-start-column="105" selection-end-line="233" selection-end-column="105" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nakuru-region.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="233" column="102" lean-forward="false" selection-start-line="233" selection-start-column="102" selection-end-line="233" selection-end-column="102" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/northeast-region.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="233" column="109" lean-forward="false" selection-start-line="233" selection-start-column="109" selection-end-line="233" selection-end-column="109" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/northrift-region.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="233" column="106" lean-forward="false" selection-start-line="233" selection-start-column="106" selection-end-line="233" selection-end-column="106" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programme-cctr.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="233" column="103" lean-forward="false" selection-start-line="233" selection-start-column="103" selection-end-line="233" selection-end-column="103" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/southrift-region.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="233" column="106" lean-forward="false" selection-start-line="233" selection-start-column="106" selection-end-line="233" selection-end-column="106" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/corporate-membership.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/bg-img/schools.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/success.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="235" column="33" lean-forward="true" selection-start-line="235" selection-start-column="33" selection-end-line="235" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/school.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="233" column="105" lean-forward="false" selection-start-line="233" selection-start-column="105" selection-end-line="233" selection-end-column="105" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/bg-img/bg-smile.jpg">
@@ -754,16 +657,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about-us.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="325" column="47" lean-forward="false" selection-start-line="325" selection-start-column="0" selection-end-line="326" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contact.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
@@ -772,14 +665,309 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/bg-img/nakuru-hostel/nakuru-1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/bg-img/nakuru-hostel/naks-1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/bg-img/nakuru-hostel/nakuru-2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/bg-img/nakuru-hostel/naks-3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/bg-img/nakuru-hostel/naks.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aboutcctr.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="203" column="46" lean-forward="true" selection-start-line="203" selection-start-column="46" selection-end-line="203" selection-end-column="46" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activities.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="196" column="46" lean-forward="true" selection-start-line="196" selection-start-column="46" selection-end-line="196" selection-end-column="46" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admission-cctr.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="195" column="86" lean-forward="true" selection-start-line="195" selection-start-column="86" selection-end-line="195" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/art-and-essay-competition.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="201" column="91" lean-forward="true" selection-start-line="201" selection-start-column="91" selection-end-line="201" selection-end-column="91" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/associate-membership.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="198" column="89" lean-forward="false" selection-start-line="198" selection-start-column="89" selection-end-line="198" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/central-region.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="198" column="89" lean-forward="false" selection-start-line="198" selection-start-column="89" selection-end-line="198" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="198" column="93" lean-forward="false" selection-start-line="198" selection-start-column="93" selection-end-line="198" selection-end-column="93" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/corporate-membership.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="195" column="80" lean-forward="false" selection-start-line="195" selection-start-column="80" selection-end-line="195" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/donate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="198" column="89" lean-forward="false" selection-start-line="198" selection-start-column="89" selection-end-line="198" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecology-programmes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="199" column="89" lean-forward="false" selection-start-line="199" selection-start-column="89" selection-end-line="199" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/how-to-become-a-member.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="228" column="9" lean-forward="true" selection-start-line="228" selection-start-column="9" selection-end-line="228" selection-end-column="9" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#li#2;n#ul#0;n#div#1;n#div#1;n#nav#0;n#div#0;n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#li#4;n#ul#0;n#div#1;n#div#1;n#nav#0;n#div#0;n#div#0;n#div#1;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#3;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kitui-region.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="196" column="46" lean-forward="true" selection-start-line="196" selection-start-column="46" selection-end-line="196" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/komba-magazine.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="198" column="89" lean-forward="false" selection-start-line="198" selection-start-column="89" selection-end-line="198" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/malindi-region.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="197" column="73" lean-forward="false" selection-start-line="197" selection-start-column="73" selection-end-line="197" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material-production.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="197" column="89" lean-forward="false" selection-start-line="197" selection-start-column="89" selection-end-line="197" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile-education-unit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="198" column="89" lean-forward="false" selection-start-line="198" selection-start-column="89" selection-end-line="198" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nakuru-hostel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="197" column="89" lean-forward="false" selection-start-line="197" selection-start-column="89" selection-end-line="197" selection-end-column="89" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nakuru-region.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="197" column="89" lean-forward="false" selection-start-line="197" selection-start-column="89" selection-end-line="197" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/northeast-region.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="197" column="89" lean-forward="false" selection-start-line="197" selection-start-column="89" selection-end-line="197" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/northrift-region.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="198" column="46" lean-forward="true" selection-start-line="198" selection-start-column="46" selection-end-line="198" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programme-cctr.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="196" column="74" lean-forward="true" selection-start-line="196" selection-start-column="74" selection-end-line="196" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/southrift-region.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="195" column="46" lean-forward="true" selection-start-line="195" selection-start-column="46" selection-end-line="195" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/success.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="256" column="6" lean-forward="false" selection-start-line="256" selection-start-column="6" selection-end-line="256" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/school.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="195" column="46" lean-forward="true" selection-start-line="195" selection-start-column="46" selection-end-line="195" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about-us.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="521" column="7" lean-forward="false" selection-start-line="521" selection-start-column="7" selection-end-line="521" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kisumu-region.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="235" column="75" lean-forward="false" selection-start-line="235" selection-start-column="75" selection-end-line="235" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kisumu-hostel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="234" column="85" lean-forward="false" selection-start-line="234" selection-start-column="85" selection-end-line="234" selection-end-column="85" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nairobi-region.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="233" column="75" lean-forward="false" selection-start-line="233" selection-start-column="75" selection-end-line="233" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mombasa-region.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="233" column="75" lean-forward="false" selection-start-line="233" selection-start-column="75" selection-end-line="233" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/bg-img/mombasa-region/mombasa-1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/bg-img/nairobi-hostel/nairobi-1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mombasa-hostel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="238" column="32" lean-forward="false" selection-start-line="238" selection-start-column="32" selection-end-line="238" selection-end-column="32" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nairobi-hostel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="233" column="103" lean-forward="false" selection-start-line="233" selection-start-column="103" selection-end-line="233" selection-end-column="103" />
+          <folding />
         </state>
       </provider>
     </entry>
